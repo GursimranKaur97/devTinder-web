@@ -22,3 +22,12 @@ If you are developing a production application, we recommend using TypeScript wi
 - Install react router dom
 - Create a footer
 - Create a Login Page
+- Install Axios
+- CORS - Install CORS in backend ==> addd middleware to with configuration: origin, credentials: true
+- Whenever you're making API call pass {aithCredentials: true} during axios call
+- Install Redux toolkit
+- Install react-redux + @reactjs/toolkit => configureStore => Provider => createSlice => add reducer to store
+- Add redux devtools in chrome
+- Login and see if your data is coming properly in the store
+- NavBar should update as soon as user logs in
+- Refactor our code to add constants file + create a components folder
