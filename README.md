@@ -18,3 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Install Tailwind CSS
 - Install Daisy UI
 - Add NavBar component to App.jsx
+- Create a NavBar.jsx separate component file
+- Install react router dom
+- Create a footer
+- Create a Login Page
