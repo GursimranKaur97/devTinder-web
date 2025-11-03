@@ -36,3 +36,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - Logout Feature
 - Profile
+- Get the feed and add the feed in the store
+- Build the user card on feed
+- Edit Profile Feature
+- Show Toast Message on save of profile
+- See all my connections
