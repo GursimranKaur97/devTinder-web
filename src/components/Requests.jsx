@@ -44,7 +44,7 @@ const Requests = () => {
             return (
                 <div 
                 key={_id}
-                className="items-center justify-between m-4 p-4 rounded-lg bg-base-200 flex w-2/3">
+                className="items-center justify-between m-4 p-4 rounded-lg bg-base-300 mx-auto">
                     <div>
                         <img alt="photo" className="w-20 h-20" src= {photoUrl}/>
                     </div>
