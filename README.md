@@ -42,3 +42,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Show Toast Message on save of profile
 - New Page - See all my connections
 - New Page - See all my connection requests
+- Feature- Accept/Reject Connection Request
+- Send/Ignore the user card from Feed
+- Signup New User
+- E2ETesting
