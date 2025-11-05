@@ -40,4 +40,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - Build the user card on feed
 - Edit Profile Feature
 - Show Toast Message on save of profile
-- See all my connections
+- New Page - See all my connections
+- New Page - See all my connection requests
