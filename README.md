@@ -81,6 +81,7 @@ Frontend:
    OR 
    pm2 delete npm
    (Stop pm2 process)
+ - pm2 list
  - pm2 start npm --name "devtinderbackend" --start ((--> give custom name to your process))
  - Modify the BASEURL in frontend project to "/api"
 
